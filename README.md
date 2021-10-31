@@ -3,9 +3,12 @@
 - 🌱 I’m currently learning kotlin , c , java etc.
 - 📫 How to reach me is just message me on FB.
 
-
+<h2> My Gihub Stats </h2>
 
 ![Fahmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahamedfahmi&show_icons=true&theme=gotham)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahamedfahmi&langs_count=8)](https://github.com/ahamedfahmi/github-readme-stats)
+
 
 
 <!---
