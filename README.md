@@ -1,10 +1,12 @@
-![](https://komarev.com/ghpvc/?username=ahamedfahmi&color=green)
+
 
 - 👋 Hi, I’m @ahamedfahmi
 - 👀 I’m interested to maintain my github as opensource .
 - 🌱 I’m currently learning kotlin , c , java etc.
 - 📫 How to reach me is just message me on FB.
+- ![](https://komarev.com/ghpvc/?username=ahamedfahmi&color=green)
 
+<hr>
 <h2> My Github Stats </h2>
 
 ![Fahmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahamedfahmi&show_icons=true&theme=gotham)
