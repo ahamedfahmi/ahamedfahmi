@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning kotlin , c , java etc.
 - 📫 How to reach me is just message me on FB.
 
-<h2> My Gihub Stats </h2>
+<h2> My Github Stats </h2>
 
 ![Fahmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahamedfahmi&show_icons=true&theme=gotham)
 
