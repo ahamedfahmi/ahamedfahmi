@@ -7,6 +7,8 @@
 
 ![Fahmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahamedfahmi&show_icons=true&theme=gotham)
 
+<h2>Main Languages that I used</h2>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahamedfahmi&langs_count=8)](https://github.com/ahamedfahmi/github-readme-stats)
 
 
