@@ -1,6 +1,6 @@
 
 
-- 👋 Hi, I’m @ahamedfahmi
+- 👋 Hi, I’m Ahamed Fahmi
 - 👀 I’m interested to maintain my github as opensource .
 - 🌱 I’m currently learning kotlin , c , java etc.
 - 📫 How to reach me is just message me on FB.
